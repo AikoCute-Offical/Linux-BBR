@@ -1,6 +1,6 @@
 # Linux-NetSpeed
 
-wget -N --no-check-certificate "https://raw.githubusercontent.com/herotbty/Aiko-bbr-Crack/master/tcp.sh"
+wget -N --no-check-certificate "https://raw.githubusercontent.com/AikoCute/BBR/master/tcp.sh"
 
 chmod +x tcp.sh
 
